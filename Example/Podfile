@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ALTTSManager_Example' do
+  pod 'ALTTSManager', :path => '../'
+
+  target 'ALTTSManager_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
