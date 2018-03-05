@@ -9,33 +9,43 @@
 /* Begin PBXBuildFile section */
 		051A816D6DD0CAE13496DDCFE0829167 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */; };
+		17709CCD79F56E66740E3B49DFB257E1 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = AB344A03C698D70A60DB6D82A56437BB /* ReplaceMe.m */; };
 		1AB7934C16CE49DE196FFC7BE7278287 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */; };
-		1B473BDE8A12B0593E247AD524A38BB3 /* ALTTSManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 97356A6DF6669E0AC7056E0A33B2E068 /* ALTTSManager-dummy.m */; };
 		207A573F76128DAAF1247812C70B176A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
+		242C36CBB94B9F21A8A08CDC4871CDE6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
+		26CC041DBCC80CBF1F2DA1F86251BF1B /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = BCE92A72696CBDF610EC87BE008D77C8 /* UIColor+Hex.m */; };
 		2EBE57E2ABA9D20636FB6EDA323CC323 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */; };
 		421CDD701AEE0F2458A84200366CDD0F /* UIImage+Snapshot.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		42744CD3A8F6A683B453AFB7345F3DA9 /* UIColor+Hex.h in Headers */ = {isa = PBXBuildFile; fileRef = 3DFAA9E4B040CB2804F85F04386D84CA /* UIColor+Hex.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4EEE070E04011CA916A7068C7E5DE665 /* UIView+FFFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = A2EEA55249BE02826D1816542A76A4C5 /* UIView+FFFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4F58C9D3C4142F48DAB199A0EA150CD8 /* Pods-ALTTSManager_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0ABC0D08F7290F3B5799BA1212FB512D /* Pods-ALTTSManager_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		506D761F91EC3583789A837C559972FE /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 52C18C0EB1FED5EB5CE3B0E768AC510F /* FBSnapshotTestCase-dummy.m */; };
-		56A621D36486488EC919AD71CABD81BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
+		5C4CE5748DF982EB27A6916BC4AFB50D /* UIButton+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 596EC3C382C1059AEAF5713A3B6A20A4 /* UIButton+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		61141BE38A791ECB322B5BDF97509F8C /* UIView+FFFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 78006453966E076D0CA42F4954C34546 /* UIView+FFFrame.m */; };
+		6131FD723D919A634322DE5679093351 /* ALTTSManager-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F80E1E90A88BDBDD359BB0E93CC022B0 /* ALTTSManager-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		69DA8B003216466C60F029CBD79897F1 /* UIImage+Compare.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */; };
-		6F44DD92250C2A6D98E477F36C68622A /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = EE8AC3B38210A916A58F1448A4BB3AA1 /* ReplaceMe.m */; };
 		756564ABAF2892FE7140C92A1CDDCF65 /* UIImage+Snapshot.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */; };
 		7E9B14D5F8842A86CA86F2AF45230725 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A8F339250A1C3C5C5C5364254007103 /* XCTest.framework */; };
 		7EED0214C9C66B346A796A9B4522B132 /* Pods-ALTTSManager_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 01F75E0B9AEE8EFEAD2E5422F00A835F /* Pods-ALTTSManager_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		841FF232C33C7D49C58CEFDBE7EEB92B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */; };
 		91D0138ACFAD733E4061F12E450C336C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9F76462157D646098A808C0D22059F2D /* UIButton+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = CF49B90CA7B40FEE60BBFCB8900C4C4A /* UIButton+Extension.m */; };
 		9F84931F8660FFC194455241AC8FD3C0 /* Pods-ALTTSManager_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 485AE853586A98EDC2180E9C7BFB56CE /* Pods-ALTTSManager_Tests-dummy.m */; };
 		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */; };
 		B27DFD6025D94758785918F1D6F6C060 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A27810809BAD71E4022600B21251449F /* QuartzCore.framework */; };
+		B68E9A212D96D4637FC816E554A66FE8 /* NSArray+Log.h in Headers */ = {isa = PBXBuildFile; fileRef = 1DC42D20D96C99D2DA9860C8C3F02766 /* NSArray+Log.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B758FB09FE2C06C1B8E36A71A9D76D41 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 73D037B3C804B9E1BB70538E342E5104 /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BB8AAE6011B970025E63B0E56DDEFCD3 /* NSArray+Log.m in Sources */ = {isa = PBXBuildFile; fileRef = F721D6CBAE33D979CBFAB3945E94BF97 /* NSArray+Log.m */; };
 		BC952FC04FC963C1294DCD619C9B6B3B /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */; };
 		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		CA198A531D3123AE1009447427309E7D /* ALTTSManager-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F80E1E90A88BDBDD359BB0E93CC022B0 /* ALTTSManager-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C73391E03EECAC07F57293943FA464FB /* ALTTSManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 97356A6DF6669E0AC7056E0A33B2E068 /* ALTTSManager-dummy.m */; };
 		CAFA5E486BCE117A7D8C0FBF9DA6666B /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		D48873146446D3A80824B6D0B84783E9 /* UILabel+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C8F96501957B8F46F8F9D2F04EDA20B /* UILabel+Extension.m */; };
+		D9C48CD64FE06A0B1163AE8DBFBE0CC4 /* UILabel+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 9790E1A42321EDFDA66AC77F69DBDC4D /* UILabel+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */; };
 		DD60CB7AAABE49240916ABBE53E83C8C /* Pods-ALTTSManager_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F7358534422EFA73E86AAB2D8890CF2C /* Pods-ALTTSManager_Example-dummy.m */; };
 /* End PBXBuildFile section */
@@ -45,7 +55,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 01302A1DA027638804890F73DA7C90D4;
+			remoteGlobalIDString = 2788D4DFB0B179271C1CC21794403660;
 			remoteInfo = ALTTSManager;
 		};
 		2BA1CBD38749E084899FB27A2C8CD7C1 /* PBXContainerItemProxy */ = {
@@ -65,23 +75,28 @@
 		0ABC0D08F7290F3B5799BA1212FB512D /* Pods-ALTTSManager_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ALTTSManager_Tests-umbrella.h"; sourceTree = "<group>"; };
 		0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
 		1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
+		1DC42D20D96C99D2DA9860C8C3F02766 /* NSArray+Log.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSArray+Log.h"; sourceTree = "<group>"; };
 		24C97E13B505CC6CB555456DEE6DE990 /* Pods-ALTTSManager_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ALTTSManager_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		2C8F96501957B8F46F8F9D2F04EDA20B /* UILabel+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Extension.m"; sourceTree = "<group>"; };
 		2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCase.m; path = FBSnapshotTestCase/FBSnapshotTestCase.m; sourceTree = "<group>"; };
 		3A8F339250A1C3C5C5C5364254007103 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		3B5E22F9517F21D3A0251F88FCAB281E /* UIImage+Compare.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Compare.m"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.m"; sourceTree = "<group>"; };
 		3DBFBDCC891B770A2AC9EF0FB164B751 /* UIImage+Snapshot.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Snapshot.m"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.m"; sourceTree = "<group>"; };
+		3DFAA9E4B040CB2804F85F04386D84CA /* UIColor+Hex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIColor+Hex.h"; sourceTree = "<group>"; };
 		3FA7B5A04C274C822A5CB4361BE6D795 /* Pods-ALTTSManager_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ALTTSManager_Example-resources.sh"; sourceTree = "<group>"; };
 		432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		485AE853586A98EDC2180E9C7BFB56CE /* Pods-ALTTSManager_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ALTTSManager_Tests-dummy.m"; sourceTree = "<group>"; };
 		52C18C0EB1FED5EB5CE3B0E768AC510F /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		55C30BF33779E106D02C2680BDDADF4D /* Pods-ALTTSManager_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ALTTSManager_Example-frameworks.sh"; sourceTree = "<group>"; };
 		58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
+		596EC3C382C1059AEAF5713A3B6A20A4 /* UIButton+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+Extension.h"; sourceTree = "<group>"; };
 		68ACC8B4897689155E66725337BD5C8E /* ALTTSManager-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ALTTSManager-prefix.pch"; sourceTree = "<group>"; };
 		6B59C5D66402AEDF28E746833DF5C59A /* Pods-ALTTSManager_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ALTTSManager_Tests.modulemap"; sourceTree = "<group>"; };
 		6E66B4218824CF8160D93713DDBEEA82 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6EC28024ABE650E8247B04D2969D9442 /* Pods-ALTTSManager_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ALTTSManager_Example.release.xcconfig"; sourceTree = "<group>"; };
 		73D037B3C804B9E1BB70538E342E5104 /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
+		78006453966E076D0CA42F4954C34546 /* UIView+FFFrame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+FFFrame.m"; sourceTree = "<group>"; };
 		7A7656752ACAE9E5B2405E5CB9215B66 /* Pods-ALTTSManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ALTTSManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		81C7DB1E6E4B0016C5F7DB30F92A1EAE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -91,28 +106,33 @@
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		967FE0111602F50D7E1033AC2930FA6A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		97356A6DF6669E0AC7056E0A33B2E068 /* ALTTSManager-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ALTTSManager-dummy.m"; sourceTree = "<group>"; };
+		9790E1A42321EDFDA66AC77F69DBDC4D /* UILabel+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+Extension.h"; sourceTree = "<group>"; };
 		9DC2669E519FCFB5943CEE1CC98053D5 /* Pods-ALTTSManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ALTTSManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		A10E6C179D619ABE7184C5897FED59FF /* Pods-ALTTSManager_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ALTTSManager_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		A27810809BAD71E4022600B21251449F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
+		A2EEA55249BE02826D1816542A76A4C5 /* UIView+FFFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+FFFrame.h"; sourceTree = "<group>"; };
 		A9C54018111D1647E09BA46D1A82EEA7 /* Pods-ALTTSManager_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ALTTSManager_Tests-resources.sh"; sourceTree = "<group>"; };
 		AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		AB344A03C698D70A60DB6D82A56437BB /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		B00FF57640C9C91BE04B59772B8B0326 /* ALTTSManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ALTTSManager.framework; path = ALTTSManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
 		B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		BB5B159E10A91F645BF0353D4A601B50 /* Pods_ALTTSManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ALTTSManager_Example.framework; path = "Pods-ALTTSManager_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCE92A72696CBDF610EC87BE008D77C8 /* UIColor+Hex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Hex.m"; sourceTree = "<group>"; };
 		BD2FFE3AA5BC58000B7AF6AAD817FACC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		C8459CD455B9561F8C4ACCD03815F904 /* Pods-ALTTSManager_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ALTTSManager_Example.modulemap"; sourceTree = "<group>"; };
 		CC12BCFA3FC0B8C307F5B38C673EDD12 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		CF28AB6CDA3D86DE3659070437E4A29F /* Pods-ALTTSManager_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ALTTSManager_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		CF49B90CA7B40FEE60BBFCB8900C4C4A /* UIButton+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Extension.m"; sourceTree = "<group>"; };
 		D6917665B74789EC88DC7293127C1AF6 /* Pods_ALTTSManager_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ALTTSManager_Tests.framework; path = "Pods-ALTTSManager_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		DADAF30F2D84FDAAD2ADD2D50C1F40DF /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
 		E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 		E8F3C82F9DB44C72CC2950B39B3BD6E5 /* Pods-ALTTSManager_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ALTTSManager_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		EA85334BA9D3483663EEFC41093D13D2 /* Pods-ALTTSManager_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ALTTSManager_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		EE8AC3B38210A916A58F1448A4BB3AA1 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		F360F82986E0FA5BCD3DF1E6847814BA /* ALTTSManager.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ALTTSManager.xcconfig; sourceTree = "<group>"; };
+		F721D6CBAE33D979CBFAB3945E94BF97 /* NSArray+Log.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Log.m"; sourceTree = "<group>"; };
 		F7358534422EFA73E86AAB2D8890CF2C /* Pods-ALTTSManager_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ALTTSManager_Example-dummy.m"; sourceTree = "<group>"; };
 		F80E1E90A88BDBDD359BB0E93CC022B0 /* ALTTSManager-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ALTTSManager-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -129,14 +149,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AF8CDDA22741533F4B055F3F1F08EEF6 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				56A621D36486488EC919AD71CABD81BE /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D29575CE8CAA6362413743FF3551F7D6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -150,6 +162,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				207A573F76128DAAF1247812C70B176A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4F83C5038F616C9C39D8F390892AC6E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				242C36CBB94B9F21A8A08CDC4871CDE6 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,12 +220,31 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		25ADE6E5B44D82E453DDE231B089F19D /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				AB344A03C698D70A60DB6D82A56437BB /* ReplaceMe.m */,
+				B21B9C35DAE4E1E71FCE003091502847 /* category */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		403229C0058A4B79FCFB9040F219C4C7 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
 				DB48C12A950FC7DAF9721962AE05B019 /* ALTTSManager */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		4F76882C2112C485F4032D3495BADBFB /* ALTTSManager */ = {
+			isa = PBXGroup;
+			children = (
+				25ADE6E5B44D82E453DDE231B089F19D /* Classes */,
+			);
+			name = ALTTSManager;
+			path = ALTTSManager;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -257,6 +296,24 @@
 			name = SwiftSupport;
 			sourceTree = "<group>";
 		};
+		B21B9C35DAE4E1E71FCE003091502847 /* category */ = {
+			isa = PBXGroup;
+			children = (
+				1DC42D20D96C99D2DA9860C8C3F02766 /* NSArray+Log.h */,
+				F721D6CBAE33D979CBFAB3945E94BF97 /* NSArray+Log.m */,
+				596EC3C382C1059AEAF5713A3B6A20A4 /* UIButton+Extension.h */,
+				CF49B90CA7B40FEE60BBFCB8900C4C4A /* UIButton+Extension.m */,
+				3DFAA9E4B040CB2804F85F04386D84CA /* UIColor+Hex.h */,
+				BCE92A72696CBDF610EC87BE008D77C8 /* UIColor+Hex.m */,
+				9790E1A42321EDFDA66AC77F69DBDC4D /* UILabel+Extension.h */,
+				2C8F96501957B8F46F8F9D2F04EDA20B /* UILabel+Extension.m */,
+				A2EEA55249BE02826D1816542A76A4C5 /* UIView+FFFrame.h */,
+				78006453966E076D0CA42F4954C34546 /* UIView+FFFrame.m */,
+			);
+			name = category;
+			path = category;
+			sourceTree = "<group>";
+		};
 		BAF65165BDA0D789AE64EDE98C02107D /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -274,7 +331,7 @@
 		DB48C12A950FC7DAF9721962AE05B019 /* ALTTSManager */ = {
 			isa = PBXGroup;
 			children = (
-				DFAD06491257C83353E694F3CB8CF3D6 /* ALTTSManager */,
+				4F76882C2112C485F4032D3495BADBFB /* ALTTSManager */,
 				BAF65165BDA0D789AE64EDE98C02107D /* Support Files */,
 			);
 			name = ALTTSManager;
@@ -288,24 +345,6 @@
 				98A1E28427B14508480934CA69F0EFB9 /* Pods-ALTTSManager_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		DFAD06491257C83353E694F3CB8CF3D6 /* ALTTSManager */ = {
-			isa = PBXGroup;
-			children = (
-				E3001FE4CE29F1B6A9777E73DA298EED /* Classes */,
-			);
-			name = ALTTSManager;
-			path = ALTTSManager;
-			sourceTree = "<group>";
-		};
-		E3001FE4CE29F1B6A9777E73DA298EED /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				EE8AC3B38210A916A58F1448A4BB3AA1 /* ReplaceMe.m */,
-			);
-			name = Classes;
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		EC585A31120A70326632A1B14876C921 /* Pods-ALTTSManager_Example */ = {
@@ -358,6 +397,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		02E18DF5F540EA5F349FB53610957A77 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6131FD723D919A634322DE5679093351 /* ALTTSManager-umbrella.h in Headers */,
+				B68E9A212D96D4637FC816E554A66FE8 /* NSArray+Log.h in Headers */,
+				5C4CE5748DF982EB27A6916BC4AFB50D /* UIButton+Extension.h in Headers */,
+				42744CD3A8F6A683B453AFB7345F3DA9 /* UIColor+Hex.h in Headers */,
+				D9C48CD64FE06A0B1163AE8DBFBE0CC4 /* UILabel+Extension.h in Headers */,
+				4EEE070E04011CA916A7068C7E5DE665 /* UIView+FFFrame.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		276A8AA9F25104CDEB63F80322BEF3F3 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -389,24 +441,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BCB27C41941A92E1C9270A538110B416 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				CA198A531D3123AE1009447427309E7D /* ALTTSManager-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		01302A1DA027638804890F73DA7C90D4 /* ALTTSManager */ = {
+		2788D4DFB0B179271C1CC21794403660 /* ALTTSManager */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B2C252482A98AD87D4575BD74C947741 /* Build configuration list for PBXNativeTarget "ALTTSManager" */;
+			buildConfigurationList = D232C6DF00ECB3D89547E6DBE7024480 /* Build configuration list for PBXNativeTarget "ALTTSManager" */;
 			buildPhases = (
-				FFAD1462C3ED7FDB02CD86C960717BCC /* Sources */,
-				AF8CDDA22741533F4B055F3F1F08EEF6 /* Frameworks */,
-				BCB27C41941A92E1C9270A538110B416 /* Headers */,
+				87C54C720A36C7D120B689E4705A394F /* Sources */,
+				F4F83C5038F616C9C39D8F390892AC6E /* Frameworks */,
+				02E18DF5F540EA5F349FB53610957A77 /* Headers */,
 			);
 			buildRules = (
 			);
@@ -491,7 +535,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				01302A1DA027638804890F73DA7C90D4 /* ALTTSManager */,
+				2788D4DFB0B179271C1CC21794403660 /* ALTTSManager */,
 				34CD2E3428AB802BACA62286FF5074B1 /* FBSnapshotTestCase */,
 				4AA8A3CC9CD76998A938C63BE5053837 /* Pods-ALTTSManager_Example */,
 				4965C70D5FDB830A8DA9E4C8E24B715F /* Pods-ALTTSManager_Tests */,
@@ -505,6 +549,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD60CB7AAABE49240916ABBE53E83C8C /* Pods-ALTTSManager_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		87C54C720A36C7D120B689E4705A394F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C73391E03EECAC07F57293943FA464FB /* ALTTSManager-dummy.m in Sources */,
+				BB8AAE6011B970025E63B0E56DDEFCD3 /* NSArray+Log.m in Sources */,
+				17709CCD79F56E66740E3B49DFB257E1 /* ReplaceMe.m in Sources */,
+				9F76462157D646098A808C0D22059F2D /* UIButton+Extension.m in Sources */,
+				26CC041DBCC80CBF1F2DA1F86251BF1B /* UIColor+Hex.m in Sources */,
+				D48873146446D3A80824B6D0B84783E9 /* UILabel+Extension.m in Sources */,
+				61141BE38A791ECB322B5BDF97509F8C /* UIView+FFFrame.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -532,22 +590,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FFAD1462C3ED7FDB02CD86C960717BCC /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1B473BDE8A12B0593E247AD524A38BB3 /* ALTTSManager-dummy.m in Sources */,
-				6F44DD92250C2A6D98E477F36C68622A /* ReplaceMe.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
 		99CFE1DE506A0409EBC42411620B3079 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = ALTTSManager;
-			target = 01302A1DA027638804890F73DA7C90D4 /* ALTTSManager */;
+			target = 2788D4DFB0B179271C1CC21794403660 /* ALTTSManager */;
 			targetProxy = 1734250B9CC05E45159D4359DB43EC59 /* PBXContainerItemProxy */;
 		};
 		B25F024315D0FC53E94820DD4A5A5E9E /* PBXTargetDependency */ = {
@@ -603,38 +652,6 @@
 			};
 			name = Release;
 		};
-		2AC8092518CF697C1ECD08E8BB4875C4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F360F82986E0FA5BCD3DF1E6847814BA /* ALTTSManager.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/ALTTSManager/ALTTSManager-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ALTTSManager/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ALTTSManager/ALTTSManager.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = ALTTSManager;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		42CD2633943AC8EC333EDBCA2196F1AD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 24C97E13B505CC6CB555456DEE6DE990 /* Pods-ALTTSManager_Tests.debug.xcconfig */;
@@ -668,6 +685,70 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		8B97DAD712A62F6EBCC9076C1604CD7D /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F360F82986E0FA5BCD3DF1E6847814BA /* ALTTSManager.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ALTTSManager/ALTTSManager-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ALTTSManager/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ALTTSManager/ALTTSManager.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = ALTTSManager;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		93E9448A83B9F48743720B66A5B36372 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F360F82986E0FA5BCD3DF1E6847814BA /* ALTTSManager.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ALTTSManager/ALTTSManager-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ALTTSManager/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ALTTSManager/ALTTSManager.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = ALTTSManager;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -829,38 +910,6 @@
 			};
 			name = Debug;
 		};
-		E11FF52F0E485C216B4355543AC01807 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F360F82986E0FA5BCD3DF1E6847814BA /* ALTTSManager.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/ALTTSManager/ALTTSManager-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ALTTSManager/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ALTTSManager/ALTTSManager.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = ALTTSManager;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		E54103BB23C91C5556E6087BF6BFAD29 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9DC2669E519FCFB5943CEE1CC98053D5 /* Pods-ALTTSManager_Tests.release.xcconfig */;
@@ -963,11 +1012,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B2C252482A98AD87D4575BD74C947741 /* Build configuration list for PBXNativeTarget "ALTTSManager" */ = {
+		D232C6DF00ECB3D89547E6DBE7024480 /* Build configuration list for PBXNativeTarget "ALTTSManager" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E11FF52F0E485C216B4355543AC01807 /* Debug */,
-				2AC8092518CF697C1ECD08E8BB4875C4 /* Release */,
+				93E9448A83B9F48743720B66A5B36372 /* Debug */,
+				8B97DAD712A62F6EBCC9076C1604CD7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
