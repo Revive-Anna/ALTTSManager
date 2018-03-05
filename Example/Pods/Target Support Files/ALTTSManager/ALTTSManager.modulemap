@@ -1,0 +1,6 @@
+framework module ALTTSManager {
+  umbrella header "ALTTSManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

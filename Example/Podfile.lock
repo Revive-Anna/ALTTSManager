@@ -1,0 +1,23 @@
+PODS:
+  - ALTTSManager (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ALTTSManager (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ALTTSManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ALTTSManager: 9558e1460b857fcf58f8afe718f04922ccbf9a74
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 7ac49181f67a254329bb2dc1f68d6e292fa8a80a
+
+COCOAPODS: 1.2.1
